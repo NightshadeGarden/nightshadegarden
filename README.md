@@ -13,4 +13,7 @@
  <details closed="">
   <summary></summary>
   $\color{#9946A2}{He‎ said‎ ". . ."}$
+<p>
+ <img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/1afd6f7b3be30ed03bd5d75877aeda2e.jpg" width="400" height="150"/>
+</p>
  </details>
