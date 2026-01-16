@@ -13,4 +13,8 @@
  <details closed="">
   <summary></summary>
   $\color{#9946A2}{He‎ said‎ ". . ."}$
+  <p align="center">
+<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled31_20260116132631.png" width="800" height="860" border="10"/>
+</p>
+  <p>$\color{#CFCFCF}{cr‎ ;‎ @diewine‎ on‎ X}$</p>
  </details>
