@@ -1,16 +1,20 @@
 <p align="center"
-<p>$\color{#9946A2}{"I‎ love‎ you.‎ My‎ Nightshade."}$</p>
+<p>$\color{#C6B187}{Because‎ I‎ love‎ you.‎ Or..‎ I‎ loved‎ before.‎ But‎ now‎ I‎ hate‎ you.}$</p>
 
 <p align="center">
-<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled30_20260116132223.png" width="600" height="660" border="10"/>
+<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled31_20260123181710.png" width="600" height="660" border="10"/>
 </p>
 
+ <p align="center"
+<p>$\color{#C6B187}{"I‎ used‎ to‎ fight.‎ In‎ school."}$</p>
 <p align="center"
-<p>$\color{#CFCFCF}{I‎ said‎ "I‎ miss‎ you‎ so..‎ bad"}$</p>
+<p>$\color{#6A7181}{"Really?‎ You‎ beat‎ people‎‎ up?"}$</p>
+<p align="center"
+<p>$\color{#C6B187}{"Haha.‎ I‎ wouldn't‎ say‎ that."}$</p>
 
 </details>
 <div align="center" dir="auto">
  <details closed="">
   <summary></summary>
-  $\color{#9946A2}{He‎ said‎ ". . ."}$
+
  </details>
