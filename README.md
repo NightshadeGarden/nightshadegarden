@@ -1,4 +1,3 @@
-<p align="center">Read links for more info in the meanwhile !</p>
 <p align="center">Pfp credit ; https://hu.pinterest.com/dyxamite/</p>
 
 <p align="center">
