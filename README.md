@@ -10,7 +10,7 @@
 <details closed="">
   <summary>$\color{#f0fff0}{My‎ links!}$</summary>
   <p align="center">
-     <img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260327163418.png" style="width:35px;height:35%;"><a href="https://full-devotion.straw.page">straw.page<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/image_2026-03-27_145828503__fliter--x-rays__channel--red__mode--normal.png" style="width:35px;height:35%;"></a> ♡
+     <img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260327163418.png" style="width:35px;height:35%;"><a href="https://down-under.straw.page">straw.page<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/image_2026-03-27_145828503__fliter--x-rays__channel--red__mode--normal.png" style="width:35px;height:35%;"></a> ♡
       <img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260327163418.png" style="width:35px;height:35%;"><a href="https://guns.lol/isaacx_">Guns.lol<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/image_2026-03-27_145828503__fliter--x-rays__channel--red__mode--normal.png" style="width:35px;height:35%;"></a>
   </p>
 </details>
