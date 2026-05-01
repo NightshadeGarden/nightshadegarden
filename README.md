@@ -10,8 +10,9 @@
 <details closed="">
   <summary>$\color{#f0fff0}{My‎ links!}$</summary>
   <p align="center">
-     <img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260327163418.png" style="width:35px;height:35%;"><a href="https://down-under.straw.page">straw.page<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/image_2026-03-27_145828503__fliter--x-rays__channel--red__mode--normal.png" style="width:35px;height:35%;"></a> ♡
-      <img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260327163418.png" style="width:35px;height:35%;"><a href="https://guns.lol/isaacx_">Guns.lol<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/image_2026-03-27_145828503__fliter--x-rays__channel--red__mode--normal.png" style="width:35px;height:35%;"></a>
+     <img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260327163418.png" style="width:35px;height:35%;"><a href="https://down-under.straw.page">Straw.page<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/image_2026-03-27_145828503__fliter--x-rays__channel--red__mode--normal.png" style="width:35px;height:35%;"></a> ♡
+      <img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260327163418.png" style="width:35px;height:35%;"><a href="https://guns.lol/isaacx_">Guns.lol<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/image_2026-03-27_145828503__fliter--x-rays__channel--red__mode--normal.png" style="width:35px;height:35%;"></a> ♡
+    <img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260327163418.png" style="width:35px;height:35%;"><a href="https://down-under-arc.carrd.co">Carrd<img src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/image_2026-03-27_145828503__fliter--x-rays__channel--red__mode--normal.png" style="width:35px;height:35%;"></a>
   </p>
 </details>
 
@@ -24,6 +25,6 @@
   <img align="left" src="https://github.com/NightshadeGarden/nightshadegarden/blob/main/Untitled49_20260328121911__fliter--x-rays__channel--red__mode--normal.png" style="width:180px;height:180%;">
   <p align="left">‎ ‎ ‎ </p>
   <p align="left">‎ ‎ ‎ </p>
-  <p align="left"> Hi I'm Isaac or Andrew :] I LOVE bad things and A ReGect ARG so badly bro I NEED more friends from those fandoms, PLEASE INTERACT WITH ME !!!!! </p>
+  <p align="left"> Hi I'm Isaac or Ze ! I LOVE bad things and A ReGect ARG so badly bro I NEED more friends from those fandoms, PLEASE INTERACT WITH ME !!!!! </p>
 </details>
 
